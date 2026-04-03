@@ -34,7 +34,7 @@ java VMTranslator directoryName
 
 ## Tests
 
-All 11 official test programs pass on the CPU Emulator:
+All 11 test programs pass on the CPU Emulator:
 
 **Project 7:** SimpleAdd, StackTest, BasicTest, PointerTest, StaticTest
 
